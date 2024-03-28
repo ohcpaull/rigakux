@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: rigakux
+Version: 0.0.5.dev0+unknown
+Summary: Tools for reading Rigaku .rasx measurement files
+Home-page: https://github.com/ohcpaull/rigakux
+Author: Oliver Paull
+Author-email: ohcpaull@gmail.com
+License: BSD
+Project-URL: Bug Tracker, https://github.com/ohcpaull/rigakux/issues
+Project-URL: Documentation, None
+Project-URL: Source Code, https://github.com/ohcpaull/rigakux
+Platform: Windows
+Platform: Linux
+Platform: Solaris
+Platform: Mac OS-X
+Platform: Unix
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: Public Domain
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Classifier: Topic :: Scientific/Engineering :: Physics
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+A set of classes that read Rigaku .rasx measurement files and allow you to access the parameters of the instrument easily and intuitively. 
